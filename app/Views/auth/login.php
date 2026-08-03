@@ -1,0 +1,1 @@
+<section class="auth-shell"><form class="glass-card auth-card"><h1>Private Access</h1><input type="email" placeholder="Email"><input type="password" placeholder="Password"><button class="btn btn-gold">Login</button><p>Email verification, reset password, 2FA-ready sessions and JWT API authentication.</p></form></section>
