@@ -1,0 +1,1 @@
+<footer class="lux-footer"><div class="container"><div><h2>Let your next address become a landmark.</h2><p>WhatsApp, callback requests, offices, partners, newsletter, social links and SEO-ready navigation.</p></div><form class="glass-card"><input placeholder="Email address"><button class="btn btn-gold">Join Private List</button></form></div></footer>

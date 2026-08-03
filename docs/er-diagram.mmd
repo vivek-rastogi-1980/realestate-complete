@@ -1,0 +1,9 @@
+erDiagram
+  roles ||--o{ users : grants
+  builders ||--o{ properties : develops
+  users ||--o{ properties : manages
+  properties ||--o{ property_media : owns
+  properties ||--o{ leads : receives
+  leads ||--o{ appointments : schedules
+  users ||--o{ blog_posts : authors
+  properties }o--o{ amenities : includes
